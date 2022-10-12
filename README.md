@@ -52,7 +52,7 @@ Install `black` library for code formatting:
 pip install black
 ```
 
-Install `pytest` library for code linting:
+Install `pytest` library for testing:
 ```bash
 pip install pytest
 ```
