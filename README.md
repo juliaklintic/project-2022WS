@@ -16,7 +16,7 @@
 - The repository only contains solutions for __Milestone 1__ and __Milestone 2__. __Milestone 3__ will be specific for each team and each topic.
 - You are also allowed to change the structure of this repository if you want to, __but it is important to specify the requirements, the steps needed to run your code and the directory structure in the README file__.
 - __The code was tested on Ubuntu, it should also work on Windows and Mac OS, but you might need to make some changes.__
-- __Please fill the team.cfg file with your team members and their TUWEL IDs.__
+- __Please fill the team.cfg file with your team members and their STUDENT IDs.__
 
 This project should cover the following topics:
 - How to structure your project in a GitHub repository
